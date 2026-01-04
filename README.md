@@ -25,6 +25,19 @@ All course concepts are explained with **interactive diagrams** (no PowerPoint s
 - Step-by-step process diagrams
 
 ---
+
+## [Course CICD Section-21 GitHub Repo](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+
+Section-21 is a **DevOps CICD** section which has a dedicated repo for implementing GitOps Pipeline. The below is the link for that GitHub Repository
+
+**[Section-21: DevOps CICD GitHub Repository: aws-devops-github-actions-ecr-argocd3 →](https://github.com/stacksimplify/aws-devops-github-actions-ecr-argocd3)**
+
+- Contains [GitHub Actions Workflow YAML File](https://github.com/stacksimplify/aws-devops-github-actions-ecr-argocd3/tree/main/.github/workflows)
+- Contains [Retail Store Application Source Code](https://github.com/stacksimplify/aws-devops-github-actions-ecr-argocd3/tree/main/src)
+- Contains other supporting files
+
+
+---
 ## [Course Modules - 55+ Hands-On Demos](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ### **Section 1: Project Overview**
