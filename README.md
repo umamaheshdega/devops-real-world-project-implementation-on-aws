@@ -14,7 +14,7 @@
 - **Demos:** 55+ Hands-On Practical Demonstrations
 
 ---
-## Course Architecture Diagrams
+## [Course Architecture Diagrams](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 All course concepts are explained with **interactive diagrams** (no PowerPoint slides). You can access them at below link
 
