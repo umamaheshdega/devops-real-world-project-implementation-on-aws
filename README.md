@@ -1,9 +1,11 @@
-# [Ultimate DevOps Real-World Project Implementation AWS Cloud - 55+ Hands-On Demos](https://links.stacksimplify.com/ultimate-aws-devops)
+# [Ultimate DevOps Real-World Project Implementation AWS Cloud - 55+ Hands-On Demos](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
-[![Image](ultimate-aws-devops.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://links.stacksimplify.com/ultimate-aws-devops)
+[![Image](ultimate-aws-devops1.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
-## [Course Details](https://links.stacksimplify.com/ultimate-aws-devops)
-- **Title:** [Ultimate DevOps Real-World Project Implementation AWS Cloud](https://links.stacksimplify.com/ultimate-aws-devops)
+[![Image](ultimate-aws-devops2.png "Ultimate DevOps Real-World Project Implementation AWS Cloud")](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+
+## [Course Details](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
+- **Title:** [Ultimate DevOps Real-World Project Implementation AWS Cloud](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 - **Sub Title:** ALL-IN-ONE: DevOps Implementation - Docker, Kubernetes (AWS EKS), Terraform, CI/CD (GitHub Actions, ArgoCD), Helm, OTEL
 - **Demos:** 55+ Hands-On Practical Demonstrations
 
@@ -19,7 +21,7 @@ All course concepts are explained with **interactive diagrams** (no PowerPoint s
 - Step-by-step process diagrams
 
 ---
-## [Course Modules - 55+ Hands-On Demos](https://links.stacksimplify.com/ultimate-aws-devops)
+## [Course Modules - 55+ Hands-On Demos](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ### **Section 1: Project Overview**
 **Module-01:** Complete Retail Store Microservices Architecture
@@ -291,7 +293,7 @@ All course concepts are explained with **interactive diagrams** (no PowerPoint s
 
 ---
 
-## [DevOps Technologies & Tools Covered](https://links.stacksimplify.com/ultimate-aws-devops)
+## [DevOps Technologies & Tools Covered](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ### **1. Docker & Containerization**
    - Docker installation, commands, and lifecycle management
@@ -368,7 +370,7 @@ All course concepts are explained with **interactive diagrams** (no PowerPoint s
 
 ---
 
-## [What will students learn in your course?](https://links.stacksimplify.com/ultimate-aws-devops)
+## [What will students learn in your course?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ### **🎯 Course Overview**
 
@@ -622,7 +624,7 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## [What are the requirements or prerequisites for taking your course?](https://links.stacksimplify.com/ultimate-aws-devops)
+## [What are the requirements or prerequisites for taking your course?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ### **Required Prerequisites:**
 - **AWS Account:** Active AWS account with permissions to create resources (EKS, VPC, RDS, EC2, etc.). Free tier works for initial modules.
@@ -666,7 +668,7 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## [Who is this course for?](https://links.stacksimplify.com/ultimate-aws-devops)
+## [Who is this course for?](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 
 ### **Perfect For:**
 - **DevOps Engineers** wanting to master modern tools (Docker, Kubernetes, Terraform, CI/CD) on AWS
@@ -706,13 +708,13 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-## [GitHub Repository](https://links.stacksimplify.com/ultimate-aws-devops)
+## [GitHub Repository](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 - **Main Repository:** [devops-real-world-project-implementation-on-aws](https://github.com/stacksimplify/devops-real-world-project-implementation-on-aws)
 - **Important:** Please FORK this repository to follow along and make your own changes during the course
 
 ---
 
-## [Each of my courses comes with](https://links.stacksimplify.com/ultimate-aws-devops)
+## [Each of my courses comes with](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)
 - ✅ **55+ Hands-On Practical Demos** - Step-by-step implementations
 - ✅ **Real-World Project** - Production-grade retail store microservices
 - ✅ **Architecture Diagrams** - Visual explanations for every concept
@@ -789,4 +791,4 @@ This comprehensive AWS DevOps course teaches **20 core competencies** through **
 
 ---
 
-**Ready to master DevOps on AWS? [Enroll now!](https://links.stacksimplify.com/ultimate-aws-devops)** 🚀
+**Ready to master DevOps on AWS? [Enroll now!](https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?referralCode=2C03B4D7B09AC0C806A0)** 🚀
